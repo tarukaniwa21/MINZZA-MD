@@ -3,21 +3,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20MINZZA-MD;%20MULTI-DEVICE%20WHATSAPP%20BOT;%20Developed%20By%20STATUS%20KING%20Dhev)
 <p align="center">
 
-<p align="left">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/" />
-  </a>
-  
-  
-
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{arkham998}/count.svg" alt="arkhan998 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Malik_Md Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
-  </a>
-</p>
-
+  <a href="[https://wa.me/+94766494699?text=🙈_❤️|හායී׀׃ලස්සන׀׃ලමයෝ|׃🙃⃪⃭⃖⃡⃡♥️⃪⃭⃖⃡🤍̶⃮⃖🌎]">
+    <img alt=Support height="400" src="https://telegra.ph/file/f317114d2be4c817912e1.jpg"> 
+    </p>
+    
 ---
 # ```Scan QR Code```
 

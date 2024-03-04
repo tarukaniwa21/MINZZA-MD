@@ -3,16 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20MINZZA-MD;%20MULTI-DEVICE%20WHATSAPP%20BOT;%20Developed%20By%20STATUS%20KING%20Dhev)
 <p align="center">
 
-</p>
-<p align="center">
-  <a href="[https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL](https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG)">
-    <img alt=Support height="400" src="https://telegra.ph/file/92ba8b1f6cc5d11b94a8c.jpg"> 
-    </p>
-
-
 <p align="left">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/arkhan998/MALIK-MD" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/" />
   </a>
   
   

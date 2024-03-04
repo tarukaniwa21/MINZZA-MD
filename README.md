@@ -1,9 +1,5 @@
 ### 💗🐣𝐌 𝐈 𝐍 𝐙 𝐙 𝐀 - 𝐌 𝐃
 
-<br
-<br>
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20MINZZA-MD;%20MULTI-DEVICE%20WHATSAPP%20BOT;%20Developed%20By%20STATUS%20KING%20Dhev)
 <p align="center">
 
@@ -12,9 +8,6 @@
   <a href="[https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL](https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG)">
     <img alt=Support height="400" src="https://telegra.ph/file/92ba8b1f6cc5d11b94a8c.jpg"> 
     </p>
-
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+MALIK+MD+WA+BOT.;CREATED+BY+ATA+UR+REHMAN+AND+TEAM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
-
 
 
 <p align="left">
